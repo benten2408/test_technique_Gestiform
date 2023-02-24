@@ -1,0 +1,15 @@
+C:\Users\allou\Desktop\test technique\bin\Debug\net6.0\test technique.exe
+C:\Users\allou\Desktop\test technique\bin\Debug\net6.0\test technique.deps.json
+C:\Users\allou\Desktop\test technique\bin\Debug\net6.0\test technique.runtimeconfig.json
+C:\Users\allou\Desktop\test technique\bin\Debug\net6.0\test technique.dll
+C:\Users\allou\Desktop\test technique\bin\Debug\net6.0\test technique.pdb
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\test technique.csproj.AssemblyReference.cache
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\test technique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\test technique.AssemblyInfoInputs.cache
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\test technique.AssemblyInfo.cs
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\test technique.csproj.CoreCompileInputs.cache
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\test technique.dll
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\refint\test technique.dll
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\test technique.pdb
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\test technique.genruntimeconfig.cache
+C:\Users\allou\Desktop\test technique\obj\Debug\net6.0\ref\test technique.dll
